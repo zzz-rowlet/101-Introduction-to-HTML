@@ -18,6 +18,7 @@ A heading
 
 A Button wrapped in a div and that contains the onclick="" special tag with nothing inside of it.
 
+# Finished Lesson
 Thank you!
 Liam,
 
